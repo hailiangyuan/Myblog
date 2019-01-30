@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title:  Git常用命令速查
+title:  JSON 生成 EXECL
 date:   2017-07-24 00:00:00 +0800
 categories: Python
 tag: 小工具
@@ -9,7 +8,7 @@ tag: 小工具
 
 * content
 {:toc}
-```
+
 
 # 使用PyThon 制作 小工具【JSON存入Execl】
 
